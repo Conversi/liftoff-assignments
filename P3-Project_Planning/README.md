@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 <ul>
-<li>welcome</li>
-<li>signup</li>
-<li>signin</li>
+<li>welcome https://github.com/Conversi/liftoff-assignments/blob/master/%23WelcomeWF.jpg</li>
+<li>signup https://github.com/Conversi/liftoff-assignments/blob/master/%23SignupWF.jpg</li>
+<li>signin https://github.com/Conversi/liftoff-assignments/blob/master/%23LoginWF.jpg</li>
 </ul>
 ### Project Tracker
 
